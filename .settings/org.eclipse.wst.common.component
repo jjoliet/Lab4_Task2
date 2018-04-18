@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?><project-modules id="moduleCoreId" project-version="1.5.0">
+    <wb-module deploy-name="lab4_jjoliet">
+        <wb-resource deploy-path="/" source-path="/WebContent" tag="defaultRootSource"/>
+        <wb-resource deploy-path="/WEB-INF/classes" source-path="/given/src"/>
+        <property name="context-root" value="lab4_jjoliet"/>
+        <property name="java-output-path" value="/lab4_jjoliet/bin"/>
+    </wb-module>
+</project-modules>
